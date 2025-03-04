@@ -1,6 +1,6 @@
 # Sprocket-Central-Pty-Ltd
 
-![Project](link)
+![Project](https://public.tableau.com/views/SprocketCentralAnalysisDashboard/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Sprocket Central Pty Ltd - Analysis Dashboard
 
