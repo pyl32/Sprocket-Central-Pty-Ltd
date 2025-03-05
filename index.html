@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Dashboard</title>
+    <script
+      type="text/javascript"
+      src="https://public.tableau.com/javascripts/api/tableau-2.min.js"
+    ></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+      }
+      #vizContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 90vh;
+        margin: auto;
+        overflow: hidden;
+      }
+      button {
+        margin: 10px;
+        padding: 10px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Customer Analysis with Tableau</h1>
+    <button id="btn">Click to hide!</button>
+    <button id="showBtn">Click to show!</button>
+    <button id="exportPDF">Export to PDF</button>
+    <button id="exportImage">Export to Image</button>
+
+    <div id="vizContainer"></div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
