@@ -1,6 +1,6 @@
 # Sprocket-Central-Pty-Ltd
 
-![Project](https://public.tableau.com/views/SprocketCentralAnalysisDashboard/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Project]([https://public.tableau.com/views/SprocketCentralAnalysisDashboard/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://github.com/pyl32/Sprocket-Central-Pty-Ltd/blob/bf9fbc6647e4cd571e729491cf77303013d6245a/index.html))
 
 # Sprocket Central Pty Ltd - Analysis Dashboard
 
