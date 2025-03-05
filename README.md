@@ -1,8 +1,6 @@
-# Sprocket-Central-Pty-Ltd
-
-![Project]([https://public.tableau.com/views/SprocketCentralAnalysisDashboard/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://github.com/pyl32/Sprocket-Central-Pty-Ltd/blob/bf9fbc6647e4cd571e729491cf77303013d6245a/index.html))
-
 # Sprocket Central Pty Ltd - Analysis Dashboard
+
+![Project](https://github.com/pyl32/Sprocket-Central-Pty-Ltd/blob/07b93ab73ee4976d62bbf79700e5b1349f9425cd/Summary.png)
 
 ## Background
 Sprocket Central Pty Ltd is a long-standing KPMG client who specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
